@@ -3,6 +3,7 @@
 ## Description
 
 ## I did not do anything wrong...
+## Mistakes were made
 
 Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted GitHub profile allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile&mdash;and one that many new developers often overlook&mdash;is the README.md file.
 
